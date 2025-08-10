@@ -1,10 +1,9 @@
-# CoVR-VidLLM-CVPR25
+# CoVR
 
 ## Description
 
-This repository contains the code for baseline model implementation used for CoVR-VidLLM workshop CVPR-2025.
+This repository contains the code for baseline model implementation used for CoVR-ICCV 2025.
 
-Please visit our [Workshop Page](https://eval.ai/web/challenges/challenge-page/2443/overview) for more details.
 
 The repository structure: 
 
