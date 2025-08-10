@@ -1,0 +1,15 @@
+outputs
+datasets
+launching
+annotation/
+.vscode/
+bert-base-uncased/
+
+delete*
+__pycache__/
+covr-env/*
+env/*
+venv/*
+covr-env
+evalute_scores.py
+validation_set_gt.csv
