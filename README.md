@@ -7,7 +7,7 @@
 #### **Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), UAE** and Linköping University, Sweden
 
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](#)
-🤗 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Page-F9D371)](#)
+🤗 [![HuggingFace Dataset](https://img.shields.io/badge/HuggingFace-Page-F9D371)]([#](https://huggingface.co/datasets/omkarthawakar/Dense-WebVid-CoVR))
 
 
 ---
@@ -63,6 +63,10 @@ To download the checkpoints, run:
 ```bash
 bash tools/scripts/download_pretrained_models.sh
 ```
+
+### Download dataset : Dense-WebVid-CoVR
+
+To download the dataset, refer to our 🤗 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Page-F9D371)]([#](https://huggingface.co/datasets/omkarthawakar/Dense-WebVid-CoVR))
 
 ## Usage
 
