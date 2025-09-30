@@ -6,8 +6,8 @@
 
 #### **Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), UAE** and Linköping University, Sweden
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](#)
-🤗 [![HuggingFace Dataset](https://img.shields.io/badge/HuggingFace-Page-F9D371)]([#](https://huggingface.co/datasets/omkarthawakar/Dense-WebVid-CoVR))
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2508.14039)
+🤗 [![HuggingFace Dataset](https://img.shields.io/badge/HuggingFace-Page-F9D371)](https://huggingface.co/datasets/omkarthawakar/Dense-WebVid-CoVR)
 
 
 ---
